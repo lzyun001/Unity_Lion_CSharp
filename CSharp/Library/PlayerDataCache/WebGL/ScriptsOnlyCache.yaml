@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Class2_Operator
+    - Practice1_OperatorMethod
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -38,23 +39,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 13508}
     - Class: 114
-      Script: {instanceID: 11308}
+      Script: {instanceID: 13662}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 13702}
     - Class: 114
-      Script: {instanceID: 11730}
+      Script: {instanceID: 14082}
     - Class: 114
-      Script: {instanceID: 12108}
+      Script: {instanceID: 14084}
     - Class: 114
-      Script: {instanceID: 12296}
+      Script: {instanceID: 14460}
     - Class: 114
-      Script: {instanceID: 12416}
+      Script: {instanceID: 14640}
     - Class: 114
-      Script: {instanceID: 12586}
+      Script: {instanceID: 14756}
     - Class: 114
-      Script: {instanceID: 12934}
+      Script: {instanceID: 14924}
+    - Class: 114
+      Script: {instanceID: 15270}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -230,6 +233,12 @@ ScriptsOnlyBuild:
     className: Shadow
   - hash:
       serializedVersion: 2
+      Hash: 68f0aae3a76f5a60fcf652a13cc8bf83
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Practice1_OperatorMethod
+  - hash:
+      serializedVersion: 2
       Hash: cc4274b586df3c02688bac01b88bd16c
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -264,6 +273,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Class1
+  - hash:
+      serializedVersion: 2
+      Hash: aed2b8aa5ac7989d7f8abe42b4e1d06f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Person
   - hash:
       serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
@@ -378,6 +393,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Class2_Operator
+  - hash:
+      serializedVersion: 2
+      Hash: 28354a6e2f612bcb796913fb53afed7d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Class3_Method
   - hash:
       serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
