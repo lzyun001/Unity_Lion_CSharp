@@ -15,6 +15,8 @@ public class Practice1_OperatorMethod : MonoBehaviour
     /// 給第一個輸入欄位使用
     /// </summary>
     /// <param name="number">第一個欄位的數值</param>
+
+
     public void InputNumber1(string number)
     { 
         number1 = number;
